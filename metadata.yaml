@@ -1,0 +1,38 @@
+_repo: Jungle-Tales-of-Tarzan_106
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '1994-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jungles -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Tarzan (Fictitious character) -- Fiction'
+- !lcsh 'Apes -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Africa -- Fiction'
+- GITenberg
+tableOfContents: Tarzan's first love -- The capture of Tarzan -- The fight for the
+  Balu -- The God of Tarzan -- Tarzan and the black boy -- The witch-doctor seeks
+  vengeance -- The end of Bukawai -- The lion -- The nightmare -- The battle for Teeka
+  -- A jungle joke -- Tarzan rescues the moon.
+title: Jungle Tales of Tarzan
+url: http://www.gutenberg.org/ebooks/106
